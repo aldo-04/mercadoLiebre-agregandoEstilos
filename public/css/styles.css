@@ -1,0 +1,97 @@
+ @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+*{
+    box-sizing: border-box;
+    padding: 0%;
+    margin: 0%;
+    font-size: 12px;
+    line-height: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+
+li{
+    list-style: none;
+}
+
+a{
+    text-decoration:none;
+}
+
+.home header{
+    background-color: #EAC926;
+}
+
+.home header img{
+    display: block;
+    width: 30%;
+    padding: 20px 0 20px 20px;
+}
+
+.home header div.search-bar{
+    display: inline-block;
+    color: #666;
+    background-color: white;
+    padding-right:20px;
+    margin-left: 5%;
+    border: 1px solid #666;
+}
+
+.home header i.fa-search{
+    font-size: 15px;
+    margin-left: 21px;
+    background-color: #ebebeb;
+    border: 1px solid #666;
+}
+
+.home header div.cuotas p{
+    display: inline-block;
+    margin: 20px 15%;
+    text-align: center;    
+}
+
+.home header nav.nav-bar{
+    margin-bottom: 20px;
+}
+
+.home header div.burger-menu i{
+    margin: 5vh 50vw;
+    border-radius: 5px;
+    border: solid blue 10px;
+    background-color:blue;
+    color: white;
+}
+
+.home main h3{
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.home main h2{
+    font-size: 24px;
+    line-height: 32px;
+}
+
+.home main p.precio{
+    font-size: 18px;
+    line-height: 26px;
+    background-color: teal;
+}
+
+.home main p.descuento{
+    font-size: 16px;
+    line-height: 24px;
+    background-color: teal;
+}
+
+.home footer article{
+    text-align: center;
+    margin: 40px 10%;
+
+}
+
+.home footer i{
+    font-size: 2em;
+    margin-bottom: 10px;
+    color: #1259c3;
+}
+
