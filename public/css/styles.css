@@ -74,19 +74,16 @@ a{
 .home main p.precio{
     font-size: 18px;
     line-height: 26px;
-    background-color: teal;
 }
 
 .home main p.descuento{
     font-size: 16px;
     line-height: 24px;
-    background-color: teal;
 }
 
 .home footer article{
     text-align: center;
     margin: 40px 10%;
-
 }
 
 .home footer i{
